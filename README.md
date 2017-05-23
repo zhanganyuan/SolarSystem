@@ -2,6 +2,8 @@
 
 ## 效果图如下。
 
+>貌似图片下面都没有了，我也不清楚怎么回事，，，也许是我网站的问题，，项目补两张图吧。
+
 ![太阳系截图1](http://zhay.info/wp-content/uploads/2017/04/solarSystem1.jpg)
 
 ![太阳系截图2](http://zhay.info/wp-content/uploads/2017/04/solarSystem2.jpg)
